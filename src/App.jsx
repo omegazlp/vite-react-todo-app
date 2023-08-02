@@ -4,7 +4,7 @@ import Xicon from "./icons/xicon"
 
 const App = () =>{
   return (
-    <div className="bg-[url('./src/assets/images/bg-mobile-light.jpg')] bg-contain bg-gray-200
+    <div className="bg-[url('./assets/images/bg-mobile-light.jpg')] bg-contain bg-gray-200
     bg-no-repeat min-h-screen">
       <header className="container mx-auto px-4 pt-8">
         <div className="flex justify-between">
